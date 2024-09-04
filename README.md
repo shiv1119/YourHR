@@ -87,6 +87,9 @@ $ pip3 install -r requirements.txt
 $ python3 manage.py makemigrations
 $ python3 manage.py migrate
 
+# Run server
+$ python3 manage.py runserver
+
 # The server will initialize in the <http://localhost:8000>
 ```
 
